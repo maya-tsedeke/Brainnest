@@ -8,7 +8,7 @@ The hangman game is a word guessing game where the player is given a word and ha
 The player is given a certain number of tries (no more than 6 wrong guesses are allowed) to guess the correct letters before the game is over.
 '''
 
-## Output
+## Expected Output
 ```bash
 '''
 You have 6 tries left.                                                                                                                                           
@@ -37,6 +37,8 @@ You guessed the word java !
     * The game ends when the player guesses the word or runs out of tries.
 ### Usage
 * To play the game, simply run the hangman() function in the Python interpreter or in a Python script.
+## Proposed Output
+```bash
 
     You have 6 tries left.
     Used letters: 
@@ -69,7 +71,7 @@ You guessed the word java !
 
     Guess a letter: o
     Congratulations! You guessed the word python !
-
+```
    # If you have any improvement you are welcome!!
    # Broject from Brainnest company
    # Developed by : Tsedeke T
