@@ -21,6 +21,7 @@ sum() - len() - sum()/len()
 or
 from statistics import mean
 mean()
+
 @author: tshabe
 https://github.com/maya-tsedeke/Brainnest
 """
