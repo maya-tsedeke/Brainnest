@@ -1,4 +1,5 @@
-"""import os
+"""
+import os
 
 file_path = "mbox-short.txt"
 if not os.path.isfile(file_path):
@@ -32,7 +33,7 @@ else:
         print("Frequency of other domains:", email_counts)
     else:
         print("No email addresses found in the file.")"""
-#Answer from Brainnest developer team
+#From Brainnest
 d = dict()
 fname = 'mbox-short.txt'
 fhand = open(fname)

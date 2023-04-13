@@ -31,7 +31,7 @@ else:
     else:
         print("No email addresses found in the file.")"""
 
-"""Answer updated from Brainnest Developer"""
+"""From Brainnest"""
 lst = []
 addresses = []
 
