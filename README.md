@@ -28,7 +28,6 @@ variable, which is then printed to the console."""
 
 # Weather App
 This is a Python application that displays weather information for a specific location using the OpenWeatherMap API. It uses the Tkinter library to create a graphical user interface (GUI) for the application.
-![view Page1](Screenshot%202023-04-30%20224244.png)
 ![view Page2](Screenshot%202023-04-30%20224332.png)
 ## Requirements
 To run this application, you will need:
